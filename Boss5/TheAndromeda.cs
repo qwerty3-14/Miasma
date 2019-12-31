@@ -33,11 +33,15 @@ namespace Miasma.Boss5
             }
             
             name = "The Andromeda";
-            float shieldOutAmount = 80;
-            float shieldSideAmount = 200;
-            new AndromedaShield(new Vector2(300, shieldOutAmount), this);
-            //new AndromedaShield(new Vector2(300 + shieldSideAmount, shieldOutAmount), this);
-            //new AndromedaShield(new Vector2(300 - shieldSideAmount, shieldOutAmount), this);
+            if (Miasma.gameState == GameScene.Combat)
+            {
+                float shieldOutAmount = 80;
+                float shieldSideAmount = 200;
+                new AndromedaShield(new Vector2(300, shieldOutAmount), this);
+                //new AndromedaShield(new Vector2(300 + shieldSideAmount, shieldOutAmount), this);
+                //new AndromedaShield(new Vector2(300 - shieldSideAmount, shieldOutAmount), this);
+            }
+
         }
         public override void UpdateHitbox()
         {

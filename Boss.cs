@@ -20,7 +20,11 @@ namespace Miasma
                     Miasma.gameEntities[i].health = 0;
                 }
             }
-            Sounds.PlayMusic(2);
+            if(Miasma.gameState == GameScene.Combat)
+            {
+                Sounds.PlayMusic(2);
+            }
+            
         }
         public override void MainUpdate()
         {

@@ -14,6 +14,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Diagnostics;
 using Microsoft.Xna.Framework.Media;
+using Miasma.Boss5;
 
 namespace Miasma.UI
 {
@@ -589,7 +590,7 @@ namespace Miasma.UI
             LoadShipData("The Gemini", 21, new Gemini(cornerShipPosition), "Siege twins. This par of ships was made to bombard planets. Their use was discontinued when it was decided that firing lots of projetiles wasn't very \"Economical for the federation\"");
             LoadShipData("The Pulsar", 32, new Pulsar(cornerShipPosition), "Compact destroyer. This ship was built to hunt down and take out targets in one on one combat.");
             LoadShipData("The Jupiter", 43, new Jupiter(cornerShipPosition + Vector2.UnitY * 50), "Specialty and espianage lightning battleship. One of the strangest ships in the galaxy invent by the mad scientist Alset Elocin");
-            LoadShipData("The Andromeda", 54, new Jupiter(Vector2.Zero), "The largest ship in galaxy named after a galaxy itself. This thing has saved many worlds and is used to end only the most dire of situations.");
+            LoadShipData("The Andromeda", 54, new TheAndromeda(Vector2.Zero), "The largest ship in galaxy named after a galaxy itself. This thing has saved many worlds and is used to end only the most dire of situations.");
         }
         void LoadUpgrades()
         {
