@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/AndromedaBombLauncher.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/AndromedaDart.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/AndromedaDartLauncher.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/AndromedaGunBase.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/AndromedaMachineGun.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/AndromedaShield.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/AndromedaStarGunCenter.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/AndromedaStarGunPoint.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/ArmsCore.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/ArmSegment.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/ArmTip.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/ArmTipBroken.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/ArtillaryPulse.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/BallLightning.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Beam.wav</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/BeamLightning.wav</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/BeamShip.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/BigArtillaryPulse.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/BigLightningBeam.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Block.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/BlockGun.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Bomb.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/BombardmentArtillary.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Bomber.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Boss1.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Boss1Top.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/bossBattle.mp3</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Capsule.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Carrier.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/carrierLaunch.wav</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/CarrierLeftGun.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/CarrierRIghtGun.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/CarrierTop.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/CenterDoor.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/click.wav</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Cruiser.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/DeathBeam.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/EliteGunship.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/EnergyBlast.wav</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Gemini.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/GeminiTurret.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Hand.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/HelixBuilder.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/HelixBuilderTop.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/HelixGun.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/HelixSegment.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/infect.wav</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Jupiter.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/JupiterBottom.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/kaboom.wav</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/launchMisc.wav</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/LeftBorder.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/LightArtillary.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/LightArtillaryGun.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/LightCharger.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/LightGunship.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/LightingBeam.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/LightingBolt.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/LightningAnnihilator.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/LimbSegment.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/MediumArtillary.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/MediumArtillaryGun.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/MediumCharger.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/MediumGunship.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/MediumGunshipTurret.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/menuChange.wav</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/menuTheme.mp3</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/miasmaMix.mp3</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/MiasmaPulse.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Missile.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/MissileFull.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/MissilePrelaunch.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Particle.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/pew.wav</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/PewPew.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Pulsar.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/PulsarBottom.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/RightBorder.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/RuthlessCharger.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/SettingsBar.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/SettingsSlider.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Shield.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/ShieldBlock.wav</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/SideDoor.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Spartan.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/SpartanClaw.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/SpartanShield.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Spinner.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/SpinnerBeam.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/TeleportingFighter.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/TheAndromeda.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/TheTransmission.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/TheTransmissionTurret.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/UArmorUp.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/UConfuse.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/UContagus.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/UFirerateUp.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/UIBar.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/UIHealth.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/UIMiasma.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/ULeech.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/UMiasmaBlast.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/UMiasmaGenerator.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/UMiasmaRay.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/URichoche.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/USpeed.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/UStableMiasma.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/UTripleMiasma.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/UTurret.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/UWave.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Wave.png</File>
+    <File>C:/Users/noahg/source/repos/Miasma/Miasma/Content/Zap.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

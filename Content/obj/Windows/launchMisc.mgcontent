@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/noahg/source/repos/Miasma/Miasma/Content/launchMisc.wav</SourceFile>
+  <SourceTime>2019-12-30T21:16:40-06:00</SourceTime>
+  <DestFile>C:/Users/noahg/source/repos/Miasma/Miasma/Content/bin/Windows/launchMisc.xnb</DestFile>
+  <DestTime>2019-12-31T12:08:48.2408696-06:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
